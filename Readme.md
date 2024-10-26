@@ -38,7 +38,7 @@
 В этом проекте используется база резюме, выгруженная с сайта поиска вакансий hh.ru. 
 База включается в себя 44744 резюме по 12 признакам.
 Файл с данными можно найти [здесь](https://disk.yandex.ru/d/qzdxw9p3aM2eLw).
-А также выгрузка курсов валют с ресурса  [MFD.RU](https://mfd.ru/export/#Alias=false&Period=1&timeframeValue=1&timeframeDatePart=day&StartDate=04.10.2021&EndDate=04.10.2021&SaveFormat=0&SaveMode=0&FieldSeparator=%253b&DecimalSeparator=.&DateFormat=yyyyMMdd&TimeFormat=HHmmss&AddHeader=true&RecordFormat=0&Fill=false), которые встречаются в наших данных за период с 29.12.2017 по 05.12.2019. Файл с данными можно найти [здесь](https://disk.yandex.ru/d/qzdxw9p3aM2eLw).
+А также выгрузка курсов валют с ресурса  [MFD.RU](https://mfd.ru/export/#Alias=false&Period=1&timeframeValue=1&timeframeDatePart=day&StartDate=04.10.2021&EndDate=04.10.2021&SaveFormat=0&SaveMode=0&FieldSeparator=%253b&DecimalSeparator=.&DateFormat=yyyyMMdd&TimeFormat=HHmmss&AddHeader=true&RecordFormat=0&Fill=false), которые встречаются в наших данных за период с 29.12.2017 по 05.12.2019. Файл с данными можно найти [здесь](https://disk.yandex.ru/d/qzdxw9p3aM2eLw)
 
 ## Исследование структуры данных
 В данном разделе проведено исследование структуры данных: 
